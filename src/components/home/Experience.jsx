@@ -12,7 +12,7 @@ return (
       <div className="container container-fluid">
         <div className="row">
             <div className="col d-lg-inline align-self-center">
-            <h1 className="display-4 mb-5 text-center">Experience</h1>
+            <h1 className="display-4 mb-5 text-center">Some of my experiences</h1>
             {/* <h1 className="display-4 pb-5">Experience</h1> */}
             <div className="row" style={divStyle}>
                 <div className="col text-center" >
@@ -21,7 +21,7 @@ return (
                         src={Dell}
                         alt="dell technologies logo"
                         width="420"
-                        height="180"
+                        height="170"
                     />
                     <br/>
                     <br/>
@@ -38,7 +38,7 @@ return (
                         src={Boeing}
                         alt="boeing logo"
                         width="300"
-                        height="260"
+                        height="220"
                     />
                     <br/>
                     <br/>
