@@ -21,14 +21,14 @@ return (
                         src={Dell}
                         alt="dell technologies logo"
                         width="420"
-                        height="70"
+                        height="140"
                     />
                     <br/>
                     <br/>
                     <p className="lead text-center" style={{fontSize:'22px'}}>
-                        Software Engineer Intern  
+                        Implementation Manager 3G and 4G Technologies  
                         <br/>
-                        June - July 2020
+                        2014 - 2016
                     </p>
                     {/* <h3>Dell Technologies</h3> */}
                 </div>
@@ -38,14 +38,14 @@ return (
                         src={Boeing}
                         alt="boeing logo"
                         width="300"
-                        height="80"
+                        height="160"
                     />
                     <br/>
                     <br/>
                     <p className="lead text-center" style={{fontSize:'22px'}}>
-                        Software Engineer Intern  
+                        Group Leader, Argentina, Mexico, Guatemala, Costa Rica, El Salvador, Brazil  
                         <br/>
-                        May - August 2019
+                        1996 to 2005
                     </p>
                     {/* <h3>Boeing</h3> */}
                 </div>
