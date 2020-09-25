@@ -1,6 +1,6 @@
 import React, { useState, useEffect, Profiler } from "react";
 import Boeing from "../../editable-stuff/boeing.jpg";
-import Dell from "../../editable-stuff/dell-logo.jpg"
+import Dell from "../../editable-stuff/dell-logo.png"
 const divStyle = {
     display: 'flex',
     flexDirection: 'row',
