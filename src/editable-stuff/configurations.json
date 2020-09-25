@@ -30,7 +30,7 @@
   "gitHubLink": "https://api.github.com/users/",
   "gitHubUsername": "mbenetti",
   "gitHubQuerry": "/repos?sort=updated&direction=desc",
-  "projectsLength": 2,
+  "projectsLength": 6,
   "showNavigationbar": true,
   "showBlog": false
 }

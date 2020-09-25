@@ -28,11 +28,6 @@ const Leadership = () => {
                       Student Engineering Council</b>, I cultivated a culture of 
                       inclusivity, collaboration, and ambition through leading new-member recruitment and 
                       community building events.
-                      Prior to that position, I led service intiatives
-                      that contributed 28,664 meals to the Central Texas Food Bank and over $3,000 to the
-                      SAFE Alliance in my position as the <b>Service Director of the Student Engineering Council</b>.
-                      Outside of these roles, I worked to level the playing field in STEM by mentoring and teaching children
-                      of lower socioeconomic status through my role as a <b>Code Orange Mentor</b>.
                  </p>  
               </div>
               
@@ -90,8 +85,8 @@ const Leadership = () => {
                     className="rounded"
                     src={Sec}
                     alt="SEC"
-                    width="615"
-                    height="450"
+                    width="600"
+                    height="400"
                   /> 
                   </Carousel.Item>
                 <Carousel.Item>
@@ -99,8 +94,8 @@ const Leadership = () => {
                     className="rounded"
                     src={Zilker}
                     alt="zilker"
-                    width="615"
-                    height="450"
+                    width="600"
+                    height="400"
                   /> 
                   </Carousel.Item>
                   <Carousel.Item>
@@ -108,7 +103,7 @@ const Leadership = () => {
                     className="rounded"
                     src={Custodians}
                     alt="custodialappreciation"
-                    width="615"
+                    width="600"
                     height="400"
                   /> 
                   </Carousel.Item>
@@ -117,8 +112,8 @@ const Leadership = () => {
                     className="rounded"
                     src={Committee}
                     alt="committee"
-                    width="615"
-                    height="390"
+                    width="600"
+                    height="400"
                   /> 
                   </Carousel.Item>
                   <Carousel.Item>
@@ -127,7 +122,7 @@ const Leadership = () => {
                     src={Park}
                     alt="volunteer"
                     width="615"
-                    height="450"
+                    height="400"
                   /> 
                   </Carousel.Item>
                   <Carousel.Item>
