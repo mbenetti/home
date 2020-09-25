@@ -21,7 +21,7 @@ return (
                         src={Dell}
                         alt="dell technologies logo"
                         width="420"
-                        height="140"
+                        height="180"
                     />
                     <br/>
                     <br/>
@@ -38,7 +38,7 @@ return (
                         src={Boeing}
                         alt="boeing logo"
                         width="300"
-                        height="160"
+                        height="260"
                     />
                     <br/>
                     <br/>
