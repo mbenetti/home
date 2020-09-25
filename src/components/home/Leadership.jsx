@@ -23,11 +23,11 @@ const Leadership = () => {
                 <div className="row"> 
                 <div className="col d-lg-inline align-self-center">
                   <p className="lead text-left">
-                      Throughout my college career, I've been extremely grateful to have opportunities to lead my peers
-                      and make an impact on the Austin community. In my role as the <b>Vice President of the 
-                      Student Engineering Council</b>, I cultivated a culture of 
-                      inclusivity, collaboration, and ambition through leading new-member recruitment and 
-                      community building events.
+                  Throughout my professional career, I have been grateful to have opportunities to learn from my peers and share experiences. 
+                  My path was unconventional, from <b>Electronics</b> to <b>Telecommunications</b> then to <b>Engineering</b> and finally to <b>BI & Analytics</b>. 
+                  From Argentina to Germany to grow and evolve as a person and as a professional. I was honored to participated in Data Science Meetups and present my 
+                  <b> Master Thesis</b> in one of those. At my position as a Consultant I worked with SAP and Azure as platforms for Analytics and Industrial IoT. 
+                  Adapt and learn is my lemma, and the more I learn the more I want to learn.
                  </p>  
               </div>
               
@@ -40,8 +40,8 @@ const Leadership = () => {
                     className="rounded"
                     src={Culture}
                     alt="culture"
-                    width="615"
-                    height="420"
+                    width="600"
+                    height="400"
                   /> 
                   {/* <Carousel.Caption>
                     <h2>Student Engineering Council Vice President</h2>
@@ -57,8 +57,8 @@ const Leadership = () => {
                     className="rounded"
                     src={Service}
                     alt="service"
-                    width="615"
-                    height="450"
+                    width="600"
+                    height="400"
                   /> 
                   {/* <Carousel.Caption>
                 <h2>Student Engineering Council Service Director</h2>
@@ -121,7 +121,7 @@ const Leadership = () => {
                     className="rounded"
                     src={Park}
                     alt="volunteer"
-                    width="615"
+                    width="600"
                     height="400"
                   /> 
                   </Carousel.Item>
@@ -130,8 +130,8 @@ const Leadership = () => {
                     className="rounded"
                     src={Retreat}
                     alt="family"
-                    width="615"
-                    height="450"
+                    width="600"
+                    height="400"
                   /> 
                   </Carousel.Item>
                 </Carousel>
