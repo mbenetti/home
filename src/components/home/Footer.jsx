@@ -28,10 +28,10 @@ import {
     <div className="container container-fluid">
           <div className="d-inline align-self-center">
           <h2 className="display-4 pb-3 text-center">Get In Touch</h2>
-          <p className="lead text-center" style={{fontSize:'22px'}}>I'm currently looking for full-time Software Engineering opportunities! If you know of 
-            any positions available, have any questions, or just want to say hi, please feel free to email me at  
-            <a href="mailto:ana.a.ashrafi@gmail.com">{" "}
-               ana.a.ashrafi@gmail.com
+          <p className="lead text-center" style={{fontSize:'22px'}}>I would love to be helpful for your project. Do not hesitate in contact me if you have questions 
+            you can contact me to   
+            <a href="mailto:mauro.benetti@gmail.com">{" "}
+               mauro.benetti@gmail.com
             </a>{"."}
           </p>
           
