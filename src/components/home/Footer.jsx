@@ -57,10 +57,10 @@ import {
       <a
         className="badge badge-dark"
         rel="noopener"
-        href="https://github.com/anaashrafi"
+        href="https://github.com/maurobenetti"
         aria-label="My GitHub"
       >
-        Ana Ashrafi
+        Mauro Benetti
       </a>{" "}
       using <i className="fab fa-react"></i>
     </footer>

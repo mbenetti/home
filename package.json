@@ -1,21 +1,21 @@
 {
   "name": "developers-portfolio",
   "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
-  "homepage": "https://anaashrafi.com",
+  "homepage": "https://maurobenetti.github.io/home",
   "version": "0.1.0",
   "private": true,
   "author": {
-    "name": "Ana Ashrafi",
-    "email": "ana.a.ashrafi@gmail.com",
-    "url": "https://github.com/anaashrafi"
+    "name": "Mauro Benetti",
+    "email": "mauro.benetti@gmail.com",
+    "url": "https://github.com/maurobenetti"
   },
   "dependencies": {
     "@popperjs/core": "^2.1.1",
     "axios": "^0.19.2",
-    "bootstrap": "^4.4.1",
-    "gh-pages": "^2.2.0",
+    "bootstrap": "^4.5.2",
     "jquery": "^3.5.1",
     "react": "^16.13.1",
+    "react-bootstrap-validation": "^0.1.11",
     "react-dom": "^16.13.1",
     "react-helmet": "^6.1.0",
     "react-photo-gallery": "^8.0.0",
@@ -48,5 +48,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
   }
 }
