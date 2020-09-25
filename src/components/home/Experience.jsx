@@ -26,7 +26,7 @@ return (
                     <br/>
                     <br/>
                     <p className="lead text-center" style={{fontSize:'22px'}}>
-                        Implementation Manager 3G and 4G Technologies  
+                        Implementation Manager 3G and 4G Technologies for South and West of Argentina
                         <br/>
                         2014 - 2016
                     </p>
@@ -43,9 +43,9 @@ return (
                     <br/>
                     <br/>
                     <p className="lead text-center" style={{fontSize:'22px'}}>
-                        Group Leader, Argentina, Mexico, Guatemala, Costa Rica, El Salvador, Brazil  
+                        As Group Leader and Expert in transmition systems with more than 300 implementations in Argentina, Mexico, Guatemala, Costa Rica, El Salvador, Brazil  
                         <br/>
-                        1996 to 2005
+                        from 1996 to 2005
                     </p>
                     {/* <h3>Boeing</h3> */}
                 </div>
