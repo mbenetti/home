@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Mauro Benetti's Personal Website ✨</h1>
+  <h1 align="center">Mauro Benetti's Personal Website </h1>
   <p align="center">
     The personal website/portfolio of Mauro Benetti, hosted with GitHub Pages. Built using React and Bootstrap. Site URL / Demo: 
     <a href="https://maurobenetti.com">maurobenetti.com</a>
@@ -7,9 +7,7 @@
   </p>
 </p>
 
-<!-- PROJECT LOGO -->
 
-[![Site preview](/public/social-image.png)](https://maurobenetti.github.io/)
 
 ## Technology Stack 
 
