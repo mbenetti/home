@@ -46,7 +46,7 @@ const Leadership = () => {
                     src={Culture}
                     alt="culture"
                     width="615"
-                    height="450"
+                    height="420"
                   /> 
                   {/* <Carousel.Caption>
                     <h2>Student Engineering Council Vice President</h2>
@@ -109,7 +109,7 @@ const Leadership = () => {
                     src={Custodians}
                     alt="custodialappreciation"
                     width="615"
-                    height="450"
+                    height="400"
                   /> 
                   </Carousel.Item>
                 <Carousel.Item>
@@ -118,7 +118,7 @@ const Leadership = () => {
                     src={Committee}
                     alt="committee"
                     width="615"
-                    height="450"
+                    height="390"
                   /> 
                   </Carousel.Item>
                   <Carousel.Item>
