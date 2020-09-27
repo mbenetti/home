@@ -57,7 +57,7 @@ import {
       <a
         className="badge badge-dark"
         rel="noopener"
-        href="https://github.com/maurobenetti"
+        href="https://github.com/mbenetti"
         aria-label="My GitHub"
       >
         Mauro Benetti
