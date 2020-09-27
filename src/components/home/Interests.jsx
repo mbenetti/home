@@ -24,9 +24,7 @@ const Interests = () => {
         <div className="row">
             <div className="col d-lg-inline align-self-center">
             <h1 className="display-4 pb-4 text-center">Interests</h1>
-            {/* <p className="lead text-center">
-              Outside of software engineering, I love to meditate, read, and play soccer!
-            </p><br/> */}
+            {}
             <div className="row" style={divStyle}>
                 <div className="col text-center" >
                 <p className="lead text-center" style={{fontSize:'28px'}}>Artificial Intelligence</p>

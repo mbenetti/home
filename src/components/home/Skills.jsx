@@ -69,7 +69,7 @@ return (
                 </div>
                 <div className="col text-center">
                 <p className="lead text-center">Proactive Problem Solving</p>
-                <img src="https://img.icons8.com/ios/75/000000/critical-thinking.png"/>
+                <img src="https://img.icons8.com/wired/64/000000/mind-map.png"/>
                 </div>
                 <div className="col text-center">
                 <p className="lead text-center">Autonomy</p>
@@ -77,25 +77,25 @@ return (
                 </div>
                 <div className="col text-center">
                 <p className="lead text-center">Business Focus</p>
-                <img src="https://img.icons8.com/ios/75/000000/happy-cloud.png"/>
+                <img src="https://img.icons8.com/android/24/000000/handshake.png"/>
                 </div>
                 <br/>
                 <div className="row" style={divStyle}>
                 <div className="col text-center">
                 <p className="lead text-center">Effective Comunication</p>
-                <img src="https://img.icons8.com/ios/75/000000/goal.png"/>
+                <img src="https://img.icons8.com/pastel-glyph/64/000000/communication--v1.png"/>
                 </div>
                 <div className="col text-center">
                 <p className="lead text-center">Organization</p>
-                <img src="https://img.icons8.com/ios/75/000000/to-do.png"/>
+                <img src="https://img.icons8.com/ios-filled/50/000000/task.png"/>
                 </div>
                 <div className="col text-center">
                 <p className="lead text-center">Critical Thinking</p>
-                <img src="https://img.icons8.com/ios/75/000000/trust.png"/>
+                <img src="https://img.icons8.com/ios-filled/50/000000/critical-thinking.png"/>
                 </div>
                 <div className="col text-center">
                 <p className="lead text-center">Intellectual Curiosity</p>
-                <img src="https://img.icons8.com/ios/75/000000/trust.png"/>
+                <img src="https://img.icons8.com/metro/52/000000/book.png"/>
                 </div>
                 </div>
                 </div>

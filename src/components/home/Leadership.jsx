@@ -16,14 +16,12 @@ const Leadership = () => {
             <div className="row"> 
                 <div className="col d-lg-inline align-self-center">
                 <h1 className="display-4 mb-3 text-center">Competencies</h1>
-                {/* <p className="lead text-center" style={{fontSize:'22px'}}>
-                    I empower people to acheive their goals. And I absolutely love it.
-                </p><br/><br/> */}
+                {}
                 <br/>
                 <div className="row"> 
                 <div className="col d-lg-inline align-self-center">
                   <p className="lead text-left">
-                  Throughout my professional career, I have been grateful to have many opportunities to learn from my peers and share many experiences. My path was unconventional, from <b>Electronics</b> to <b>Telecommunications</b> then to <b>Engineering</b> and finally to <b>BI & Analytics</b>.I would like to think that my growth was organically and progressive. I was honored to participated in many Data Science Stammtisch Allgäu and present in one of those my <b> Master Thesis</b>. Today is fared to say the only constant is change, and I believe the most valuables skills are adaptation and constant learning.
+                  Throughout my professional career, I have been grateful to have many opportunities to learn from my peers and share many experiences. My path was unconventional, from <b>Electronics</b> to <b>Telecommunications</b> then to <b>Engineering</b> and finally to <b>BI & Analytics</b>. I enjoy participating in many Data Science Stammtisch Allgäu and present in one of those my <b> Master Thesis</b>. Today is fared to say the only constant is change, and I believe the most valuables skills are adaptation and constant learning.
                  </p>  
               </div>
               
