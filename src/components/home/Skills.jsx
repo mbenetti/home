@@ -65,7 +65,7 @@ return (
                 <div className="row" style={divStyle}>
                 <div className="col text-center">
                 <p className="lead text-center">Leadership</p>
-                <img src="https://img.icons8.com/ios/75/000000/collaboration-female-male.png"/>
+                <img src="https://img.icons8.com/ios-filled/50/000000/leadership.png"/>
                 </div>
                 <div className="col text-center">
                 <p className="lead text-center">Proactive Problem Solving</p>
