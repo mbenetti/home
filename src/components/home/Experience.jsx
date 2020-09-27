@@ -12,7 +12,7 @@ return (
       <div className="container container-fluid">
         <div className="row">
             <div className="col d-lg-inline align-self-center">
-            <h1 className="display-4 mb-5 text-center">Some of my others homes</h1>
+            <h1 className="display-4 mb-5 text-center">Some of my other homes</h1>
             {/* <h1 className="display-4 pb-5">Experience</h1> */}
             <div className="row" style={divStyle}>
                 <div className="col text-center" >
@@ -20,15 +20,14 @@ return (
                         // className="border border-secondary rounded-circle"
                         src={Dell}
                         alt="dell technologies logo"
-                        width="420"
-                        height="170"
+                        width="270"
+                        height="67"
                     />
                     <br/>
                     <br/>
                     <p className="lead text-center" style={{fontSize:'22px'}}>
-                        Implementation Manager 3G and 4G Technologies for South and West of Argentina
+                        For two years I was a manager in the implementation of more than 200 site of 3G and 4G along the South and West of Argentina
                         <br/>
-                        2014 - 2016
                     </p>
                     {/* <h3>Dell Technologies</h3> */}
                 </div>
@@ -37,15 +36,14 @@ return (
                         // className="border border-secondary rounded-circle"
                         src={Boeing}
                         alt="boeing logo"
-                        width="300"
-                        height="220"
+                        width="320"
+                        height="95"
                     />
                     <br/>
                     <br/>
                     <p className="lead text-center" style={{fontSize:'22px'}}>
-                        As Group Leader and Expert in transmition systems with more than 300 implementations in Argentina, Mexico, Guatemala, Costa Rica, El Salvador, Brazil  
+                    For over 6 years I was Group Leader and Expert in transmission systems. I personally implemented and supervised rollouts in Argentina, Mexico, Guatemala, Costa Rica, El Salvador, and Brazil. 
                         <br/>
-                        from 1996 to 2005
                     </p>
                     {/* <h3>Boeing</h3> */}
                 </div>

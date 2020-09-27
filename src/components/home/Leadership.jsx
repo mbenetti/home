@@ -23,11 +23,7 @@ const Leadership = () => {
                 <div className="row"> 
                 <div className="col d-lg-inline align-self-center">
                   <p className="lead text-left">
-                  Throughout my professional career, I have been grateful to have opportunities to learn from my peers and share experiences. 
-                  My path was unconventional, from <b>Electronics</b> to <b>Telecommunications</b> then to <b>Engineering</b> and finally to <b>BI & Analytics</b>. 
-                  From Argentina to Germany to grow and evolve as a person and as a professional. I was honored to participated in Data Science Meetups and present my 
-                  <b> Master Thesis</b> in one of those. At my position as a Consultant I worked with SAP and Azure as platforms for Analytics and Industrial IoT. 
-                  Adapt and learn is my lemma, and the more I learn the more I want to learn.
+                  Throughout my professional career, I have been grateful to have many opportunities to learn from my peers and share many experiences. My path was unconventional, from <b>Electronics</b> to <b>Telecommunications</b> then to <b>Engineering</b> and finally to <b>BI & Analytics</b>.I would like to think that my growth was organically and progressive. I was honored to participated in many Data Science Stammtisch Allgäu and present in one of those my <b> Master Thesis</b>. Today is fared to say the only constant is change, and I believe the most valuables skills are adaptation and constant learning.
                  </p>  
               </div>
               

@@ -9,7 +9,7 @@ const divStyle = {
 };
 const Skills = () => {
 return (
-    <div id="skills" className="jumbotron jumbotron-fluid m-0" style={{backgroundColor:'#f7f7f7'}}>
+    <div id="skills" className="jumbotron jumbotron-fluid m-0" style={{backgroundColor:'#d6d6d6'}}>
       <div className="container container-fluid">
         
             {/* <div className="col-5 d-none d-lg-inline align-self-center">
@@ -22,37 +22,37 @@ return (
                 <div className="row">
                 <div className="col">
                 <br/>
-                  <p className="lead">Agile/Lean Methodologies
+                  <p className="lead">Analytics & Data Science
                   <ProgressBar now={90} style={{width:'490px', backgroundColor:'white'}}/>
                   </p>
-                  <p className="lead">JavaScript
+                  <p className="lead">Business Intelligence
                   <ProgressBar now={87} style={{width:'490px', backgroundColor:'white'}}/>
                   </p>
-                  <p className="lead">C#
+                  <p className="lead">Project Management
                   <ProgressBar now={80} style={{width:'490px', backgroundColor:'white'}}/>
                   </p>
-                  <p className="lead">C/C++
+                  <p className="lead">Data Engineering
                   <ProgressBar now={70} style={{width:'490px', backgroundColor:'white'}}/>
                   </p>
-                  <p className="lead">Python
+                  <p className="lead">IIoT and Edge computing
                   <ProgressBar now={60} style={{width:'490px', backgroundColor:'white'}}/>
                   </p>
               </div>
               <div className="col">
               <br/>
-                <p className="lead">Java
+                <p className="lead">Python, R and C
                 <ProgressBar now={90} style={{width:'490px', backgroundColor:'white'}}/>
                 </p>
-                <p className="lead">HTML/CSS
+                <p className="lead">Docker container and Micro Service Architecture
                 <ProgressBar now={85} style={{width:'490px', backgroundColor:'white'}}/>
                 </p>
-                <p className="lead">Test-Driven Development
+                <p className="lead">Cloud technologies: SAP Cloud and Micrisoft Azure
                   <ProgressBar now={80} style={{width:'490px', backgroundColor:'white'}}/>
                   </p>
-                <p className="lead">SQL
+                <p className="lead">Linux SUSE, Ubuntu, Raspbian, RedHat 
                 <ProgressBar now={75} style={{width:'490px', backgroundColor:'white'}}/>
                 </p>
-                <p className="lead">React
+                <p className="lead">SQL, Cypher(Graph), NOSQL
                 <ProgressBar now={50} style={{width:'490px', backgroundColor:'white'}}/>
                 </p>
               </div>
@@ -64,22 +64,25 @@ return (
                 <br/>
                 <div className="row" style={divStyle}>
                 <div className="col text-center">
-                <p className="lead text-center">Collaboration</p>
+                <p className="lead text-center">Leadership</p>
                 <img src="https://img.icons8.com/ios/75/000000/collaboration-female-male.png"/>
                 </div>
                 <div className="col text-center">
-                <p className="lead text-center">Problem Solving</p>
+                <p className="lead text-center">Proactive Problem Solving</p>
                 <img src="https://img.icons8.com/ios/75/000000/critical-thinking.png"/>
                 </div>
                 <div className="col text-center">
-                <p className="lead text-center">Positivity</p>
+                <p className="lead text-center">Autonomy</p>
                 <img src="https://img.icons8.com/ios/75/000000/happy-cloud.png"/>
                 </div>
+                <div className="col text-center">
+                <p className="lead text-center">Business Focus</p>
+                <img src="https://img.icons8.com/ios/75/000000/happy-cloud.png"/>
                 </div>
                 <br/>
                 <div className="row" style={divStyle}>
                 <div className="col text-center">
-                <p className="lead text-center">Goal Setting</p>
+                <p className="lead text-center">Effective Comunication</p>
                 <img src="https://img.icons8.com/ios/75/000000/goal.png"/>
                 </div>
                 <div className="col text-center">
@@ -87,15 +90,19 @@ return (
                 <img src="https://img.icons8.com/ios/75/000000/to-do.png"/>
                 </div>
                 <div className="col text-center">
-                <p className="lead text-center">Empathy</p>
+                <p className="lead text-center">Critical Thinking</p>
+                <img src="https://img.icons8.com/ios/75/000000/trust.png"/>
+                </div>
+                <div className="col text-center">
+                <p className="lead text-center">Intellectual Curiosity</p>
                 <img src="https://img.icons8.com/ios/75/000000/trust.png"/>
                 </div>
                 </div>
                 </div>
+                </div>                               
               </Tab>
             </Tabs>
-            </div>
-          
+          </div>
         </div>
       </div>
   );
