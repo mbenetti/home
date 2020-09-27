@@ -68,16 +68,12 @@ return (
                 <img src="https://img.icons8.com/ios-filled/50/000000/leadership.png"/>
                 </div>
                 <div className="col text-center">
-                <p className="lead text-center">Proactive Problem Solving</p>
-                <img src="https://img.icons8.com/wired/64/000000/mind-map.png"/>
-                </div>
-                <div className="col text-center">
-                <p className="lead text-center">Autonomy</p>
-                <img src="https://img.icons8.com/ios/75/000000/happy-cloud.png"/>
+                <p className="lead text-center">Problem Solving</p>
+                <img src="https://img.icons8.com/ios-filled/50/000000/mind-map.png"/>
                 </div>
                 <div className="col text-center">
                 <p className="lead text-center">Business Focus</p>
-                <img src="https://img.icons8.com/android/24/000000/handshake.png"/>
+                <img src="https://img.icons8.com/ios-filled/50/000000/purposeful-man.png"/>
                 </div>
                 <br/>
                 <div className="row" style={divStyle}>
