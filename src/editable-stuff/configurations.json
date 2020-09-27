@@ -10,7 +10,7 @@
     {
       "id": 0,
       "image": "fa-github",
-      "url": "https://github.com/maurobenetti",
+      "url": "https://github.com/mbenetti",
       "style": "socialicons"
     },
     {
@@ -31,7 +31,7 @@
   "instaLink": "https://www.instagram.com/",
   "instaUsername": "mau.8420",
   "instaQuerry": "/?__a=1",
-  "aboutDescription": "Hello! My name is Mauro, and I am an Engineer with a Master on Business Intelligence and Analytics. I work as a Consultant at Datagroup GmbH, and in the Business Intelligence Unit I work with Azure and SAP on Analytics and Data Science topics. I am most passionate about the use of data and AI in our daily life",
+  "aboutDescription": "Hello! My name is Mauro, and I am an Engineer with a Master on Business Intelligence and Analytics. I work as a Consultant at Datagroup GmbH, and I use Azure and SAP on Analytics and Data Science projects. I am most passionate about the use of Data and AI in our daily life",
   "projectHeading": "Recent Data Analytics solutions and projects on GitHub",
   "gitHubLink": "https://api.github.com/users/",
   "gitHubUsername": "mbenetti",

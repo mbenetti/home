@@ -21,12 +21,12 @@ return (
                         src={Dell}
                         alt="dell technologies logo"
                         width="270"
-                        height="67"
+                        height="66"
                     />
                     <br/>
                     <br/>
                     <p className="lead text-center" style={{fontSize:'22px'}}>
-                        For two years I was a manager in the implementation of more than 200 site of 3G and 4G along the South and West of Argentina
+                        For two years I was a Field Manager in the implementation of more than 200 site 3G and 4G along the South and West of Argentina. This also includes transmission systems and subcontractor management.
                         <br/>
                     </p>
                     {/* <h3>Dell Technologies</h3> */}
@@ -36,13 +36,13 @@ return (
                         // className="border border-secondary rounded-circle"
                         src={Boeing}
                         alt="boeing logo"
-                        width="320"
+                        width="350"
                         height="95"
                     />
                     <br/>
                     <br/>
                     <p className="lead text-center" style={{fontSize:'22px'}}>
-                    For over 6 years I was Group Leader and Expert in transmission systems. I personally implemented and supervised rollouts in Argentina, Mexico, Guatemala, Costa Rica, El Salvador, and Brazil. 
+                    For over 6 years I was Group Leader and Expert in transmission systems. I personally implemented or supervised rollouts in Argentina, Mexico, Guatemala, Costa Rica, El Salvador, and Brazil. 
                         <br/>
                     </p>
                     {/* <h3>Boeing</h3> */}

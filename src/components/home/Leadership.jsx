@@ -21,7 +21,7 @@ const Leadership = () => {
                 <div className="row"> 
                 <div className="col d-lg-inline align-self-center">
                   <p className="lead text-left">
-                  Throughout my professional career, I have been grateful to have many opportunities to learn from my peers and share many experiences. My path was unconventional, from <b>Electronics</b> to <b>Telecommunications</b> then to <b>Engineering</b> and finally to <b>BI & Analytics</b>. I received formal training in <b>Situation Leadership</b>, and I have a wide variety of courses from <b>SAP</b> and <b>Microsoft</b>. Today is fared to say the only constant is change, and I believe the most valuables skills are adaptation and constant learning.
+                  Throughout my professional career, I have been grateful to have many opportunities to learn from my peers and share many experiences. My path was unconventional, from <b>Electronics</b> to <b>Telecommunications</b> then to <b>Engineering</b> and finally to <b>BI & Analytics</b>. I received formal training in <b>Situation Leadership</b>, and I have a wide variety of courses from <b>SAP</b> and <b>Microsoft</b>. Today is fair to say the only constant is change, and I believe that the most valuables skills are adaptation and constant learning.
                  </p>  
               </div>
               
