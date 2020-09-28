@@ -41,7 +41,7 @@ return (
               <div className="col">
               <br/>
                 <p className="lead">Python, R and C
-                <ProgressBar now={90} style={{width:'490px', backgroundColor:'white'}}/>
+                <ProgressBar now={85} style={{width:'490px', backgroundColor:'white'}}/>
                 </p>
                 <p className="lead">Docker container and Micro Service Architecture
                 <ProgressBar now={85} style={{width:'490px', backgroundColor:'white'}}/>
@@ -53,7 +53,7 @@ return (
                 <ProgressBar now={75} style={{width:'490px', backgroundColor:'white'}}/>
                 </p>
                 <p className="lead">SQL, Cypher(Graph), NOSQL
-                <ProgressBar now={50} style={{width:'490px', backgroundColor:'white'}}/>
+                <ProgressBar now={40} style={{width:'490px', backgroundColor:'white'}}/>
                 </p>
               </div>
               </div>
