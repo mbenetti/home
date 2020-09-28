@@ -30,7 +30,7 @@ const Interests = () => {
                 <p className="lead text-center" style={{fontSize:'28px'}}>Data Science </p>
                 <img src="https://img.icons8.com/ios/72/bot.png"/>
                 <p className="lead text-center">
-                Every day I read or learn something new about this fascinating fields. I believed soon, Cognitive Systems will continue enhancing human capabilities to the point we would be able to spend more time doing what we want and less working for the living.
+                Every day I read or learn something new about this fascinating fields. I believed that soon, Cognitive Systems will continue enhancing human capabilities to the point we would be able to spend more time doing what we want and less working for the living.
                 </p>
                 </div>
                 <div className="col text-center">
