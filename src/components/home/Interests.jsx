@@ -51,7 +51,7 @@ const Interests = () => {
                 <p className="lead text-center" style={{fontSize:'28px'}}>Riding my bicycle</p>
                 <img src="https://img.icons8.com/dotty/80/000000/cycling-mountain-bike.png"/>
                 <p className="lead text-center">
-                I love riding my bicycle long distances, before coming to Germany I traveled for one moth in Patagonia with my tend and my bike. In Germany I travel the route that connects the origin of the Danube river to Black Sea. I already have 500 kms and my plan is continuing next year.
+                I love riding my bicycle long distances, before coming to Germany I traveled for one month in Patagonia with my tend and my bike. In Germany I travel the route that connects the origin of the Danube river to Black Sea. I already have 500 kms and my plan is continuing next year.
                 </p>
                 </div>
             </div>
