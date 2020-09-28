@@ -12,7 +12,7 @@ return (
       <div className="container container-fluid">
         <div className="row">
             <div className="col d-lg-inline align-self-center">
-            <h1 className="display-4 mb-5 text-center">Some of my other homes</h1>
+            <h1 className="display-4 mb-5 text-center">Previous experiences</h1>
             {/* <h1 className="display-4 pb-5">Experience</h1> */}
             <div className="row" style={divStyle}>
                 <div className="col text-center" >
