@@ -27,7 +27,7 @@ const Interests = () => {
             {}
             <div className="row" style={divStyle}>
                 <div className="col text-center" >
-                <p className="lead text-center" style={{fontSize:'28px'}}>Data Science and Cognitive Systems</p>
+                <p className="lead text-center" style={{fontSize:'28px'}}>Data Science </p>
                 <img src="https://img.icons8.com/ios/72/bot.png"/>
                 <p className="lead text-center">
                 Every day I read or learn something new about this fascinating fields. I believed soon, Cognitive Systems will continue enhancing human capabilities to the point we would be able to spend more time doing what we want and less working for the living.
@@ -44,7 +44,7 @@ const Interests = () => {
                 <p className="lead text-center" style={{fontSize:'28px'}}>Meditation and Chi kung</p>
                 <img src="https://img.icons8.com/dotty/80/000000/floating-guru.png"/>
                 <p className="lead text-center">
-                This is an important part of my life. I practice meditation in many forms since I was young and for a long time, I practice Chi Kung, an internal martial art. this is kind of the mix between Yoga and a physical martial art. The practice brings me balance and serenity to my day.
+                This is an important part of my life. I practice meditation in its many forms since I was young, and for a long time, I also practice Chi Kung. The practice of this body-mind activities brings me balance and serenity to my day.
                 </p>
                 </div>
                 <div className="col text-center">
