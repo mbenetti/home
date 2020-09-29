@@ -30,7 +30,7 @@ const Interests = () => {
                 <p className="lead text-center" style={{fontSize:'28px'}}>Data Science </p>
                 <img src="https://img.icons8.com/ios/72/bot.png"/>
                 <p className="lead text-center">
-                Every day I read or learn something new about this fascinating fields. I believed that soon, Cognitive Systems will continue enhancing human capabilities to the point we would be able to spend more time doing what we want and less working for the living.
+                Every day I read or learn something new about this fascinating fields. I believed that soon, Cognitive Systems will enhance human capabilities to the point we would be able to spend more time doing what we want and less working for the living.
                 </p>
                 </div>
                 <div className="col text-center">
@@ -44,14 +44,14 @@ const Interests = () => {
                 <p className="lead text-center" style={{fontSize:'28px'}}>Meditation and Chi kung</p>
                 <img src="https://img.icons8.com/dotty/80/000000/floating-guru.png"/>
                 <p className="lead text-center">
-                This is an important part of my life. I practice meditation in its many forms since I was young, and for a long time, I also practice Chi Kung. The practice of this body-mind activities brings me balance and serenity to my day.
+                This is an important part of my life. I practice meditation in its many forms since I was young, and for a long time, I also practice Chi Kung. The practice of this body-mind activities brings balance and serenity to my day.
                 </p>
                 </div>
                 <div className="col text-center">
                 <p className="lead text-center" style={{fontSize:'28px'}}>Riding my bicycle</p>
                 <img src="https://img.icons8.com/dotty/80/000000/cycling-mountain-bike.png"/>
                 <p className="lead text-center">
-                I love riding my bicycle long distances, before coming to Germany I traveled for one month in Patagonia with my tend and my bike. In Germany I travel the route that connects the origin of the Danube river to Black Sea. I already have 500 kms and my plan is continuing next year.
+                I love riding my bicycle long distances, before coming to Germany I traveled for one month in Patagonia only with my tend and my bike. In Germany I travelled the route that connects the origin of the Danube river to Black Sea. I already have the first 500 kms and my plan is continuing.
                 </p>
                 </div>
             </div>
